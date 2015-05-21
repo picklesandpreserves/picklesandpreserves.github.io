@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Pickles and Preserves
+tagline:          'Scratched beginnings and new mulitations'
+description:      'I have no clue what to write here miss!'
+url:              http://picklesandpreserves.github.io
+baseurl:          /
+
+author:
+name: 'GRK'
+url: https://twitter.com/mdo
+paginate: 5
+# Custom vars
+#version: 2.1.0
+github:
+repo: https://github.com/picklesandpreserves/picklesandpreserves.github.io
+
